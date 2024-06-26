@@ -40,7 +40,6 @@ This Android application allows users to convert between different currencies us
 1. Clone the repository:
     ```bash
     git clone https://github.com/totalfresh/Android-API.git
-    cd CurrencyConversionApp
     ```
 
 2. Open the project in Android Studio.
@@ -89,7 +88,6 @@ Ta aplikacja na Androida umożliwia użytkownikom konwersję między różnymi w
 1. Sklonuj repozytorium:
     ```bash
     git clone https://github.com/totalfresh/Android-API.git
-    cd CurrencyConversionApp
     ```
 
 2. Otwórz projekt w Android Studio.
