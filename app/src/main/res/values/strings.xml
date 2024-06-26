@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Currency Converter Pro</string>
+
+
+    <string-array name="currencies">
+        <item>PLN</item>
+        <item>AUD</item>
+        <item>BIF</item>
+        <item>EUR</item>
+        <item>FJD</item>
+        <item>GBP</item>
+        <item>USD</item>
+        <item>KYD</item>
+        <item>DKK</item>
+        <item>MAD</item>
+        <item>NGN</item>
+        <item>SEK</item>
+        <item>QAR</item>
+        <item>SSP</item>
+        <item>CAD</item>
+        <item>VES</item>
+        <item>JPY</item>
+        <item>ZWL</item>
+
+    </string-array>
+
+    <string-array name="currencies2">
+        <item>AUD</item>
+        <item>BIF</item>
+        <item>EUR</item>
+        <item>FJD</item>
+        <item>USD</item>
+        <item>PLN</item>
+        <item>DKK</item>
+        <item>GBP</item>
+        <item>KYD</item>
+        <item>SEK</item>
+        <item>MAD</item>
+        <item>NGN</item>
+        <item>QAR</item>
+        <item>SSP</item>
+        <item>CAD</item>
+        <item>VES</item>
+        <item>JPY</item>
+        <item>ZWL</item>
+
+    </string-array>
+
+</resources>
